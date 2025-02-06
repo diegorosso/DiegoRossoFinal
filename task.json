@@ -1,0 +1,5 @@
+[
+    { "text": "Aprender JavaScript", "completed": false, "highPriority": true },
+    { "text": "Hacer la compra", "completed": true, "highPriority": false },
+    { "text": "Preparar la presentación", "completed": false, "highPriority": true }
+]
